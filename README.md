@@ -1,4 +1,5 @@
-### Hi there 👋
+### 'Klaatu barada nikto'
+![sivaNODE_Simonetta](https://github.com/SIVAnode/SIVAnode/assets/141650837/e94afe4d-30ba-495e-91dd-39efb17a4581)
 
 <!--
 **SIVAnode/SIVAnode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
