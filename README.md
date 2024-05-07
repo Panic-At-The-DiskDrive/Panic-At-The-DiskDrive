@@ -1,14 +1,15 @@
-### Hi there 👋, My name is Danielle
-#### -Gibson-Pondsmith Cyber Sailor-
+# Hi there 👋, My name is Danielle
+### -Gibson-Pondsmith Cyber Sailor-
 
 I am a Graphic Designer turned Front-End Developer from Argentina, venturing (fearfully) into the Back-End World.
 
 - 🌱 I’m currently learning JS / HTML / CSS / REACT 
 - 💬 Ask me about VISUAL BASIC / JAVA / MYSQL / POO 
-- 😄 Pronouns: They/Them 
+
 
 ![sivaNODE_Simonetta](https://github.com/SIVAnode/SIVAnode/assets/141650837/e94afe4d-30ba-495e-91dd-39efb17a4581)
 
+- 😄 Pronouns: They/Them
 <!--
 **SIVAnode/SIVAnode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
