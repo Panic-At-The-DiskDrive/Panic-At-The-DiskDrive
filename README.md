@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Danielle
 #### -Gibson-Pondsmith Cyber Sailor-
 
-I am a Graphic Designer turned Front-End Developer venturing (fearfully) into the Back-End World.
+I am a Graphic Designer turned Front-End Developer from Argentina, venturing (fearfully) into the Back-End World.
 
 - 🌱 I’m currently learning JS / HTML / CSS / REACT 
 - 💬 Ask me about VISUAL BASIC / JAVA / MYSQL / POO 
