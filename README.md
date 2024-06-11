@@ -1,7 +1,7 @@
 # Hi there 👋, My name is Danielle
-### -Graphic Designer & Java Developer-
+### -Graphic Designer-
 
-I am a Graphic Designer turned Front-End Developer from Argentina, venturing (fearfully) into the Back-End World.
+I am a Graphic Designer from Argentina, venturing (fearfully) into the Front-End World.
 
 - ⚡ Fun fact **This is my backup account 😋**
   
