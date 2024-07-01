@@ -1,7 +1,7 @@
 # Hi there 👋, My name is Danielle 🏳️‍⚧️
 ### -Graphic Designer-
 
-I am a Graphic Designer from Argentina, venturing (fearfully) into the Front-End World.
+I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer´s World.
 
 - ⚡ Fun fact **This is my backup account 😋**
   
