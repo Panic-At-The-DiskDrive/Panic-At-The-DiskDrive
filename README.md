@@ -3,6 +3,8 @@
 
 I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer´s World.
 
+- 😄 Pronouns: He/They
+- 💬 I speak Spanish, English and Italian.<br />  <br />
 - ⚡ Fun fact **This is my backup account 😋**
   
 
@@ -10,13 +12,17 @@ I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer
 
 
 - 💬 Ask me about VISUAL BASIC / JS / JAVA / MYSQL / POO
-- 🌱 I’m currently learning HTML / CSS / REACT / PYTHON
+- 🌱 I’m currently learning HTML / CSS / REACT
 
 
 ![sivaNODE_Simonetta](https://github.com/SIVAnode/SIVAnode/assets/141650837/e94afe4d-30ba-495e-91dd-39efb17a4581)
 
 
 System.out.println(“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”);
+
+<!--[![SIVAnode's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIVAnode&show_icons=true&theme=synthwave)](https://github.com/SIVAnode/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAnode&layout=compact&theme=synthwave)](https://github.com/SIVAnode/github-readme-stats)
+
 
 <!--
 **SIVAnode/SIVAnode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
