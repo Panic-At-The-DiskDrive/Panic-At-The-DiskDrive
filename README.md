@@ -30,7 +30,7 @@ I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer
 
 
 - 💬 Ask me about VISUAL BASIC / JS / JAVA / MYSQL / POO
-- 🌱 I’m currently learning HTML / CSS / REACT<br />  <br />
+- 🌱 I’m currently learning HTML / CSS / REACT / ANGULAR / TS<br />  <br />
 
 
 ![sivaNODE_Simonetta](https://github.com/SIVAnode/SIVAnode/assets/141650837/e94afe4d-30ba-495e-91dd-39efb17a4581)<br />  <br />
