@@ -31,6 +31,9 @@ I’m a trans man (assigned female at birth), and I believe visibility matters i
 - 💬 Ask me about VISUAL BASIC / JS / JAVA / MYSQL / POO  
 - 🌱 I’m currently learning HTML / CSS / REACT / ANGULAR / TS  
 
+  ![PenTest](https://github.com/Panic-At-The-DiskDrive/Assets/blob/main/c268e04a9c9b9b3e8f797babbe0b7344.gif?raw=true)
+  
+
 System.out.println(“Any fool can write code that a computer can understand.  
 Good programmers write code that humans can understand.”);
 
