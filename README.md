@@ -1,7 +1,7 @@
 # Hi there 👋, My name is Danielle 🏳️‍⚧️  
 ### -Graphic Designer-
 
-I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer´s World.  
+I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer and Pen Testing World.  
 I’m a trans man (assigned female at birth), and I believe visibility matters in tech.
 
 - 😄 My pronouns are He/They  
@@ -28,8 +28,8 @@ I’m a trans man (assigned female at birth), and I believe visibility matters i
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-- 💬 Ask me about VISUAL BASIC / JS / JAVA / MYSQL / POO / ANGULAR / TS  
-- 🌱 I’m currently learning HTML / CSS / REACT / PYTHON  
+- 💬 Ask me about VISUAL BASIC / JS / JAVA / MYSQL / GO / ANGULAR / TS  
+- 🌱 I’m currently learning HTML / CSS / REACT / PYTHON / RUBY  
 
   ![PenTest](https://github.com/Panic-At-The-DiskDrive/Assets/blob/main/c268e04a9c9b9b3e8f797babbe0b7344.gif?raw=true)
   
