@@ -6,7 +6,8 @@ I’m a trans man (assigned female at birth), and I believe visibility matters i
 
 - 😄 My pronouns are He/They  
 - 💬 I speak Spanish, English and Italian.  
-- ⚡ Fun fact: **This is my backup account 😋**  
+- ⚡ Fun fact: **This is my backup account 😋**
+- 🚫 Don´t add/follow without asking. (A permaban is waiting for you)
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -28,8 +29,8 @@ I’m a trans man (assigned female at birth), and I believe visibility matters i
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-- 💬 Ask me about VISUAL BASIC / JS / JAVA / MYSQL / GO / ANGULAR / TS  
-- 🌱 I’m currently learning HTML / CSS / REACT / PYTHON / RUBY  
+- 💬 Ask me about VISUAL BASIC / JS / JAVA / PYTHON / MYSQL / GO / ANGULAR / TS  
+- 🌱 I’m currently learning HTML / CSS / REACT / RUBY  
 
   ![PenTest](https://github.com/Panic-At-The-DiskDrive/Assets/blob/main/c268e04a9c9b9b3e8f797babbe0b7344.gif?raw=true)
   
