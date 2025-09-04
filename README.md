@@ -1,7 +1,7 @@
 # Hi there 👋, My name is Danielle 🏳️‍⚧️  
 ### -Graphic Designer-
 
-I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer and Pen Testing World.  
+I am a Graphic Designer from Argentina, venturing (fearfully) into the Developer and Pentesting World.  
 I’m a trans man (assigned female at birth), and I believe visibility matters in tech.
 
 - 😄 My pronouns are He/They  
