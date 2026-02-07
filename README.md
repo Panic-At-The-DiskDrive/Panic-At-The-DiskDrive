@@ -8,6 +8,7 @@ I’m a trans man (assigned female at birth), and I believe visibility matters i
 - 💬 I speak Spanish, English and Italian.  
 - ⚡ Fun fact: **This is my backup account 😋**
 - 🚫 Don´t add/follow without asking. (A permaban is waiting for you)
+- 🚫 AI or Vibe Coding is not admitted here
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
